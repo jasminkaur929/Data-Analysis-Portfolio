@@ -15,6 +15,14 @@ _Goal_: To determine the cause of climate change worldwide and countries most af
 _Technology Use_: **Power BI**
 
 _Source_: Kaggle: [Temperature Change](https://www.kaggle.com/datasets/sevgisarac/temperature-change), [CO2 Emissions](https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022)
+## AEMR Analysis
+_Description_: This project aims to analyze and narrow down the market's key providers affecting stability and reliability of the network.
+
+_Goal_: To identify key sources of financial loss and market disruption
+
+_Technology Use_: **SQL and Tableau**
+
+_Source_: Springboard Data Analytics Track
 ### Contact
 Email: jasminkaur929@gmail.com
 
