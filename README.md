@@ -1,4 +1,12 @@
 # Data Analysis Portfolio
+## Southern Water Corp Analysis
+_Description_: This project utilizes financial, economic, and statistical techniques to reduce production and maintenance costs while increasing revenue.
+
+_Goal_: Identify trends within each business revenue, operational expenses, and EBIT performance, along with the economic market; Use correlation and multivariate regression to create an signal to prevent production failure
+
+_Technology Use_: **Excel**
+
+_Source_: Springboard Data Analytics Track
 ## ChemCorp Inc Analysis
 _Description_: The project focuses on analyzing the company performance based on industry and products. The dataset includes revenue, cost, price, quantity, and regional information.
 
