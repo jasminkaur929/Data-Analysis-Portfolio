@@ -4,7 +4,7 @@ _Description_: This project utilizes financial, economic, and statistical techni
 
 _Goal_: Identify trends within each business revenue, operational expenses, and EBIT performance, along with the economic market; Use correlation and multivariate regression to create an signal to prevent production failure
 
-_Technology Use_: **Excel**
+_Technology Use_: **Excel and Python**
 
 _Source_: Springboard Data Analytics Track
 ## ChemCorp Inc Analysis
