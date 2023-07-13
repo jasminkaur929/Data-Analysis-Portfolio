@@ -7,4 +7,4 @@ SWC competes in a highly contested market where water is traded by the mega-lite
 Minute by minute time-series data is used to create an Statistical Data Alarm (multivariate regression equation) to identify and track pump performance to help inform the Asset Engineers the behavior of a desalination plant pump before failure and during failure. This analysis reveals any correlations indicating pump failure and will assist in reducing their maintenance costs.
 
 
-_Technology Use_: **Excel**
+_Technology Use_: **Excel and Python**
