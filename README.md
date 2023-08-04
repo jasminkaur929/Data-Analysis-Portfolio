@@ -36,5 +36,3 @@ Email: jasminkaur929@gmail.com
 
 LinkedIn: [@jasmin-kaur](https://www.linkedin.com/in/jasmin-kaur/)
 
-CV: [Kaur_Jasmin_Resume.pdf](https://github.com/jasminkaur929/Data-Analysis-Portfolio/files/12256160/Kaur_Jasmin_Resume.pdf)
-
