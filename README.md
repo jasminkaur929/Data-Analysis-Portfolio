@@ -31,6 +31,14 @@ _Goal_: To identify key sources of financial loss and market disruption
 _Technology Use_: **SQL and Tableau**
 
 _Source_: Springboard Data Analytics Track
+## Pandemic's Impact on Mortality Analysis
+_Description_: This capstone project tracks the growth rate of deaths from the COVID-19 virus within the U.S. population during 2020-2023.
+
+_Goal_: To measure the size of impact on mortality before and after the COVID-19 vaccination
+
+_Technology Use_: **Python and Tableau**
+
+_Source_: Kaggle: [COVID-19 Impact](https://www.kaggle.com/datasets/bvanntruong/covid-impact) & CDC: [COVID-19 Deaths by Week, Age, and Sex](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm)
 ### Contact
 Email: jasminkaur929@gmail.com
 
